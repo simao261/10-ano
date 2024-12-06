@@ -1,0 +1,15 @@
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/experiencias strings/experiencias strings/obj/Debug/net7.0/experiencias strings.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/experiencias strings/experiencias strings/obj/Debug/net7.0/experiencias strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/experiencias strings/experiencias strings/obj/Debug/net7.0/experiencias strings.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/experiencias strings/experiencias strings/obj/Debug/net7.0/experiencias strings.AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/experiencias strings/experiencias strings/obj/Debug/net7.0/experiencias strings.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/experiencias strings/experiencias strings/bin/Debug/net7.0/experiencias strings
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/experiencias strings/experiencias strings/bin/Debug/net7.0/experiencias strings.deps.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/experiencias strings/experiencias strings/bin/Debug/net7.0/experiencias strings.runtimeconfig.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/experiencias strings/experiencias strings/bin/Debug/net7.0/experiencias strings.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/experiencias strings/experiencias strings/bin/Debug/net7.0/experiencias strings.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/experiencias strings/experiencias strings/obj/Debug/net7.0/experiencias strings.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/experiencias strings/experiencias strings/obj/Debug/net7.0/refint/experiencias strings.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/experiencias strings/experiencias strings/obj/Debug/net7.0/experiencias strings.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/experiencias strings/experiencias strings/obj/Debug/net7.0/experiencias strings.genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/experiencias strings/experiencias strings/obj/Debug/net7.0/ref/experiencias strings.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\Pograma\u00E7\u00E3o\\10 ano\\modulo 2\\Fichas\\Ficha 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB40DAB-E03F-40FF-A7F1-6A40727592CC}|Ficha 2\\Ficha 2.csproj|w:\\pograma\u00E7\u00E3o\\10 ano\\modulo 2\\fichas\\ficha 2\\ficha 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB40DAB-E03F-40FF-A7F1-6A40727592CC}|Ficha 2\\Ficha 2.csproj|solutionrelative:ficha 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\Pograma\u00E7\u00E3o\\10 ano\\modulo 2\\Fichas\\Ficha 2\\Ficha 2\\Program.cs",
+              "RelativeDocumentMoniker": "Ficha 2\\Program.cs",
+              "ToolTip": "W:\\Pograma\u00E7\u00E3o\\10 ano\\modulo 2\\Fichas\\Ficha 2\\Ficha 2\\Program.cs",
+              "RelativeToolTip": "Ficha 2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:30:57.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

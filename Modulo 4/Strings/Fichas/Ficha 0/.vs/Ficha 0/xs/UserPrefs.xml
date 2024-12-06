@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0768618C-4CB7-4E52-982E-D4EE69546F01}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Ficha_2200 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ficha 0/Program.cs">
+    <Files>
+      <File FileName="Ficha 0/Program.cs" Line="28" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Ficha 0" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <DisabledProjects>
+    <String>teste/teste.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.Ficha_2200_220ex_2203 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Ficha_220o_220ex_2201 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ficha_2200_220ex_2202 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

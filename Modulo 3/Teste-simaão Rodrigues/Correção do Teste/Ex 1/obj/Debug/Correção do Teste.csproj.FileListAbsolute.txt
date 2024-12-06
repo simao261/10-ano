@@ -1,0 +1,7 @@
+C:\PSI\Pogramação\Modulo 3\Teste-simaão Rodrigues\Correção do Teste\bin\Debug\Correção do Teste.exe.config
+C:\PSI\Pogramação\Modulo 3\Teste-simaão Rodrigues\Correção do Teste\bin\Debug\Correção do Teste.exe
+C:\PSI\Pogramação\Modulo 3\Teste-simaão Rodrigues\Correção do Teste\bin\Debug\Correção do Teste.pdb
+C:\PSI\Pogramação\Modulo 3\Teste-simaão Rodrigues\Correção do Teste\obj\Debug\Correção do Teste.csproj.AssemblyReference.cache
+C:\PSI\Pogramação\Modulo 3\Teste-simaão Rodrigues\Correção do Teste\obj\Debug\Correção do Teste.csproj.CoreCompileInputs.cache
+C:\PSI\Pogramação\Modulo 3\Teste-simaão Rodrigues\Correção do Teste\obj\Debug\Correção do Teste.exe
+C:\PSI\Pogramação\Modulo 3\Teste-simaão Rodrigues\Correção do Teste\obj\Debug\Correção do Teste.pdb

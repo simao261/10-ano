@@ -1,0 +1,3 @@
+Joaquim=6
+Anabela=14
+Patrícia=9

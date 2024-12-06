@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{46E20131-6436-4245-BBDF-33F6FFA0DE95}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Correção_220do_220Teste FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Correção do Teste/Program.cs">
+    <Files>
+      <File FileName="Correção do Teste/Program.cs" Line="36" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

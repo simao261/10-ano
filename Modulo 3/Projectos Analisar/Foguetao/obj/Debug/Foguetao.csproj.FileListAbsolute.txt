@@ -1,0 +1,15 @@
+D:\MEOCloud\Brotero 2023-2024\10PSI\Modulo 3 - Prog Estruturada\Foguetao\obj\Debug\Foguetao.csproj.AssemblyReference.cache
+D:\MEOCloud\Brotero 2023-2024\10PSI\Modulo 3 - Prog Estruturada\Foguetao\obj\Debug\Foguetao.csproj.SuggestedBindingRedirects.cache
+D:\MEOCloud\Brotero 2023-2024\10PSI\Modulo 3 - Prog Estruturada\Foguetao\obj\Debug\Foguetao.csproj.CoreCompileInputs.cache
+D:\MEOCloud\Brotero 2023-2024\10PSI\Modulo 3 - Prog Estruturada\Foguetao\bin\Debug\Foguetao.exe.config
+D:\MEOCloud\Brotero 2023-2024\10PSI\Modulo 3 - Prog Estruturada\Foguetao\bin\Debug\Foguetao.exe
+D:\MEOCloud\Brotero 2023-2024\10PSI\Modulo 3 - Prog Estruturada\Foguetao\bin\Debug\Foguetao.pdb
+D:\MEOCloud\Brotero 2023-2024\10PSI\Modulo 3 - Prog Estruturada\Foguetao\obj\Debug\Foguetao.exe
+D:\MEOCloud\Brotero 2023-2024\10PSI\Modulo 3 - Prog Estruturada\Foguetao\obj\Debug\Foguetao.pdb
+C:\PSI\Pogramação\Modulo 3\Projectos Analisar\Foguetao\bin\Debug\Foguetao.exe.config
+C:\PSI\Pogramação\Modulo 3\Projectos Analisar\Foguetao\bin\Debug\Foguetao.exe
+C:\PSI\Pogramação\Modulo 3\Projectos Analisar\Foguetao\bin\Debug\Foguetao.pdb
+C:\PSI\Pogramação\Modulo 3\Projectos Analisar\Foguetao\obj\Debug\Foguetao.csproj.AssemblyReference.cache
+C:\PSI\Pogramação\Modulo 3\Projectos Analisar\Foguetao\obj\Debug\Foguetao.csproj.CoreCompileInputs.cache
+C:\PSI\Pogramação\Modulo 3\Projectos Analisar\Foguetao\obj\Debug\Foguetao.exe
+C:\PSI\Pogramação\Modulo 3\Projectos Analisar\Foguetao\obj\Debug\Foguetao.pdb

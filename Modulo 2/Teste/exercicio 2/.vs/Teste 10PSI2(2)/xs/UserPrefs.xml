@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F1B77A5B-D873-4B73-A9ED-01DB353B1A6A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Teste_22010PSI2_2282_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Teste 10PSI2(2)/Program.cs">
+    <Files>
+      <File FileName="Teste 10PSI2(2)/Program.cs" Line="22" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Teste 10PSI2(2)" expanded="True">
+            <Node name="Teste 10PSI2(2)" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

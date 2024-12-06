@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3EA57885-44FC-4BF2-A205-601DDDF1C149}|Default">
+  <MonoDevelop.Ide.ItemProperties.experiencias_220arrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="experiencias arrays/Program.cs">
+    <Files>
+      <File FileName="experiencias arrays/Program.cs" Line="106" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="experiencias arrays" expanded="True">
+            <Node name="experiencias arrays" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

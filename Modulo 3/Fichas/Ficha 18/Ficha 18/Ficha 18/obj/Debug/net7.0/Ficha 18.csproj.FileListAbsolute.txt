@@ -1,0 +1,15 @@
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 18/Ficha 18/Ficha 18/bin/Debug/net7.0/Ficha 18
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 18/Ficha 18/Ficha 18/bin/Debug/net7.0/Ficha 18.deps.json
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 18/Ficha 18/Ficha 18/bin/Debug/net7.0/Ficha 18.runtimeconfig.json
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 18/Ficha 18/Ficha 18/bin/Debug/net7.0/Ficha 18.dll
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 18/Ficha 18/Ficha 18/bin/Debug/net7.0/Ficha 18.pdb
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 18/Ficha 18/Ficha 18/obj/Debug/net7.0/Ficha 18.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 18/Ficha 18/Ficha 18/obj/Debug/net7.0/Ficha 18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 18/Ficha 18/Ficha 18/obj/Debug/net7.0/Ficha 18.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 18/Ficha 18/Ficha 18/obj/Debug/net7.0/Ficha 18.AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 18/Ficha 18/Ficha 18/obj/Debug/net7.0/Ficha 18.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 18/Ficha 18/Ficha 18/obj/Debug/net7.0/Ficha 18.dll
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 18/Ficha 18/Ficha 18/obj/Debug/net7.0/refint/Ficha 18.dll
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 18/Ficha 18/Ficha 18/obj/Debug/net7.0/Ficha 18.pdb
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 18/Ficha 18/Ficha 18/obj/Debug/net7.0/Ficha 18.genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 18/Ficha 18/Ficha 18/obj/Debug/net7.0/ref/Ficha 18.dll

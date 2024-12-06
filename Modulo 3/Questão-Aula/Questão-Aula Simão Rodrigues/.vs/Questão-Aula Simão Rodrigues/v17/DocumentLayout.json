@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PSI\\Pograma\u00E7\u00E3o\\Modulo 3\\Quest\u00E3o-Aula\\Quest\u00E3o-Aula Sim\u00E3o Rodrigues\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{745ED41B-0834-46AA-9B22-437D1A23D59F}|Quest\u00E3o-Aula Sim\u00E3o Rodrigues.csproj|c:\\psi\\pograma\u00E7\u00E3o\\modulo 3\\quest\u00E3o-aula\\quest\u00E3o-aula sim\u00E3o rodrigues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745ED41B-0834-46AA-9B22-437D1A23D59F}|Quest\u00E3o-Aula Sim\u00E3o Rodrigues.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PSI\\Pograma\u00E7\u00E3o\\Modulo 3\\Quest\u00E3o-Aula\\Quest\u00E3o-Aula Sim\u00E3o Rodrigues\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\PSI\\Pograma\u00E7\u00E3o\\Modulo 3\\Quest\u00E3o-Aula\\Quest\u00E3o-Aula Sim\u00E3o Rodrigues\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T07:48:45.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

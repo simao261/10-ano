@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "experiencias Estruturas de Dados Compostas/1.0.0": {
+        "runtime": {
+          "experiencias Estruturas de Dados Compostas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "experiencias Estruturas de Dados Compostas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

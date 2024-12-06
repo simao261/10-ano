@@ -1,0 +1,15 @@
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/experiencias arrays/experiencias arrays/bin/Debug/net7.0/experiencias arrays
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/experiencias arrays/experiencias arrays/bin/Debug/net7.0/experiencias arrays.deps.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/experiencias arrays/experiencias arrays/bin/Debug/net7.0/experiencias arrays.runtimeconfig.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/experiencias arrays/experiencias arrays/bin/Debug/net7.0/experiencias arrays.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/experiencias arrays/experiencias arrays/bin/Debug/net7.0/experiencias arrays.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/experiencias arrays/experiencias arrays/obj/Debug/net7.0/experiencias arrays.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/experiencias arrays/experiencias arrays/obj/Debug/net7.0/experiencias arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/experiencias arrays/experiencias arrays/obj/Debug/net7.0/experiencias arrays.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/experiencias arrays/experiencias arrays/obj/Debug/net7.0/experiencias arrays.AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/experiencias arrays/experiencias arrays/obj/Debug/net7.0/experiencias arrays.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/experiencias arrays/experiencias arrays/obj/Debug/net7.0/experiencias arrays.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/experiencias arrays/experiencias arrays/obj/Debug/net7.0/refint/experiencias arrays.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/experiencias arrays/experiencias arrays/obj/Debug/net7.0/experiencias arrays.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/experiencias arrays/experiencias arrays/obj/Debug/net7.0/experiencias arrays.genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/experiencias arrays/experiencias arrays/obj/Debug/net7.0/ref/experiencias arrays.dll

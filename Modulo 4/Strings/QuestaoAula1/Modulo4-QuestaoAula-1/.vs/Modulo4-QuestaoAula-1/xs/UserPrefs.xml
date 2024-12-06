@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{25A947D2-B73B-4B6C-BFC0-BE8F8E271C88}|Default">
+  <MonoDevelop.Ide.ItemProperties.Modulo4-QuestaoAula-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Modulo4-QuestaoAula-1/Program.cs">
+    <Files>
+      <File FileName="../../../Arrays/Ficha 2/Ficha 2/Program.cs" />
+      <File FileName="Modulo4-QuestaoAula-1/Program.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Modulo4-QuestaoAula-1" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

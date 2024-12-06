@@ -1,0 +1,7 @@
+C:\PSI\Pogramação\Modulo 3\Teste\Questão-Aula Simão Rodrigues\obj\Debug\Questão-Aula Simão Rodrigues.csproj.AssemblyReference.cache
+C:\PSI\Pogramação\Modulo 3\Teste\Questão-Aula Simão Rodrigues\obj\Debug\Questão-Aula Simão Rodrigues.csproj.CoreCompileInputs.cache
+C:\PSI\Pogramação\Modulo 3\Teste\Questão-Aula Simão Rodrigues\bin\Debug\Questão-Aula Simão Rodrigues.exe.config
+C:\PSI\Pogramação\Modulo 3\Teste\Questão-Aula Simão Rodrigues\bin\Debug\Questão-Aula Simão Rodrigues.exe
+C:\PSI\Pogramação\Modulo 3\Teste\Questão-Aula Simão Rodrigues\bin\Debug\Questão-Aula Simão Rodrigues.pdb
+C:\PSI\Pogramação\Modulo 3\Teste\Questão-Aula Simão Rodrigues\obj\Debug\Questão-Aula Simão Rodrigues.exe
+C:\PSI\Pogramação\Modulo 3\Teste\Questão-Aula Simão Rodrigues\obj\Debug\Questão-Aula Simão Rodrigues.pdb

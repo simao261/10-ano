@@ -1,0 +1,15 @@
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 1.0/Ficha1.o/Ficha1.o/obj/Debug/net7.0/Ficha1.o.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 1.0/Ficha1.o/Ficha1.o/obj/Debug/net7.0/Ficha1.o.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 1.0/Ficha1.o/Ficha1.o/obj/Debug/net7.0/Ficha1.o.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 1.0/Ficha1.o/Ficha1.o/obj/Debug/net7.0/Ficha1.o.AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 1.0/Ficha1.o/Ficha1.o/obj/Debug/net7.0/Ficha1.o.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 1.0/Ficha1.o/Ficha1.o/bin/Debug/net7.0/Ficha1.o
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 1.0/Ficha1.o/Ficha1.o/bin/Debug/net7.0/Ficha1.o.deps.json
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 1.0/Ficha1.o/Ficha1.o/bin/Debug/net7.0/Ficha1.o.runtimeconfig.json
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 1.0/Ficha1.o/Ficha1.o/bin/Debug/net7.0/Ficha1.o.dll
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 1.0/Ficha1.o/Ficha1.o/bin/Debug/net7.0/Ficha1.o.pdb
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 1.0/Ficha1.o/Ficha1.o/obj/Debug/net7.0/Ficha1.o.dll
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 1.0/Ficha1.o/Ficha1.o/obj/Debug/net7.0/refint/Ficha1.o.dll
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 1.0/Ficha1.o/Ficha1.o/obj/Debug/net7.0/Ficha1.o.pdb
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 1.0/Ficha1.o/Ficha1.o/obj/Debug/net7.0/Ficha1.o.genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/PSI/Pogramação/Modulo 3/Fichas/Ficha 1.0/Ficha1.o/Ficha1.o/obj/Debug/net7.0/ref/Ficha1.o.dll

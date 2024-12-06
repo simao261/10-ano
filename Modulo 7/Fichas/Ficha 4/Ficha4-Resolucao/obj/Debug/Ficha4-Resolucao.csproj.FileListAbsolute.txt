@@ -1,0 +1,8 @@
+D:\MEOCloud\Brotero 2022-2023\PSI\Módulo 7\Fichas de Trabalho\Ficha de Trabalho 4\Ficha 4 - Resolução\Ficha4-Resolucao\bin\Debug\Ficha4-Resolucao.exe.config
+D:\MEOCloud\Brotero 2022-2023\PSI\Módulo 7\Fichas de Trabalho\Ficha de Trabalho 4\Ficha 4 - Resolução\Ficha4-Resolucao\bin\Debug\Ficha4-Resolucao.exe
+D:\MEOCloud\Brotero 2022-2023\PSI\Módulo 7\Fichas de Trabalho\Ficha de Trabalho 4\Ficha 4 - Resolução\Ficha4-Resolucao\bin\Debug\Ficha4-Resolucao.pdb
+D:\MEOCloud\Brotero 2022-2023\PSI\Módulo 7\Fichas de Trabalho\Ficha de Trabalho 4\Ficha 4 - Resolução\Ficha4-Resolucao\obj\Debug\Ficha4-Resolucao.csproj.AssemblyReference.cache
+D:\MEOCloud\Brotero 2022-2023\PSI\Módulo 7\Fichas de Trabalho\Ficha de Trabalho 4\Ficha 4 - Resolução\Ficha4-Resolucao\obj\Debug\Ficha4-Resolucao.csproj.SuggestedBindingRedirects.cache
+D:\MEOCloud\Brotero 2022-2023\PSI\Módulo 7\Fichas de Trabalho\Ficha de Trabalho 4\Ficha 4 - Resolução\Ficha4-Resolucao\obj\Debug\Ficha4-Resolucao.csproj.CoreCompileInputs.cache
+D:\MEOCloud\Brotero 2022-2023\PSI\Módulo 7\Fichas de Trabalho\Ficha de Trabalho 4\Ficha 4 - Resolução\Ficha4-Resolucao\obj\Debug\Ficha4-Resolucao.exe
+D:\MEOCloud\Brotero 2022-2023\PSI\Módulo 7\Fichas de Trabalho\Ficha de Trabalho 4\Ficha 4 - Resolução\Ficha4-Resolucao\obj\Debug\Ficha4-Resolucao.pdb

@@ -1,0 +1,45 @@
+/Users/simaorodrigues/Projects/exercicio 3/exercicio 3/bin/Debug/net7.0/exercicio 3
+/Users/simaorodrigues/Projects/exercicio 3/exercicio 3/bin/Debug/net7.0/exercicio 3.deps.json
+/Users/simaorodrigues/Projects/exercicio 3/exercicio 3/bin/Debug/net7.0/exercicio 3.runtimeconfig.json
+/Users/simaorodrigues/Projects/exercicio 3/exercicio 3/bin/Debug/net7.0/exercicio 3.dll
+/Users/simaorodrigues/Projects/exercicio 3/exercicio 3/bin/Debug/net7.0/exercicio 3.pdb
+/Users/simaorodrigues/Projects/exercicio 3/exercicio 3/obj/Debug/net7.0/exercicio 3.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Projects/exercicio 3/exercicio 3/obj/Debug/net7.0/exercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Projects/exercicio 3/exercicio 3/obj/Debug/net7.0/exercicio 3.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Projects/exercicio 3/exercicio 3/obj/Debug/net7.0/exercicio 3.AssemblyInfo.cs
+/Users/simaorodrigues/Projects/exercicio 3/exercicio 3/obj/Debug/net7.0/exercicio 3.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Projects/exercicio 3/exercicio 3/obj/Debug/net7.0/exercicio 3.dll
+/Users/simaorodrigues/Projects/exercicio 3/exercicio 3/obj/Debug/net7.0/refint/exercicio 3.dll
+/Users/simaorodrigues/Projects/exercicio 3/exercicio 3/obj/Debug/net7.0/exercicio 3.pdb
+/Users/simaorodrigues/Projects/exercicio 3/exercicio 3/obj/Debug/net7.0/exercicio 3.genruntimeconfig.cache
+/Users/simaorodrigues/Projects/exercicio 3/exercicio 3/obj/Debug/net7.0/ref/exercicio 3.dll
+/Users/simaorodrigues/Desktop/Teste/exercico 3/exercicio 3/bin/Debug/net7.0/exercicio 3
+/Users/simaorodrigues/Desktop/Teste/exercico 3/exercicio 3/bin/Debug/net7.0/exercicio 3.deps.json
+/Users/simaorodrigues/Desktop/Teste/exercico 3/exercicio 3/bin/Debug/net7.0/exercicio 3.runtimeconfig.json
+/Users/simaorodrigues/Desktop/Teste/exercico 3/exercicio 3/bin/Debug/net7.0/exercicio 3.dll
+/Users/simaorodrigues/Desktop/Teste/exercico 3/exercicio 3/bin/Debug/net7.0/exercicio 3.pdb
+/Users/simaorodrigues/Desktop/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/exercicio 3.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/exercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/exercicio 3.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/exercicio 3.AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/exercicio 3.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/exercicio 3.dll
+/Users/simaorodrigues/Desktop/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/refint/exercicio 3.dll
+/Users/simaorodrigues/Desktop/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/exercicio 3.pdb
+/Users/simaorodrigues/Desktop/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/exercicio 3.genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/ref/exercicio 3.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercico 3/exercicio 3/bin/Debug/net7.0/exercicio 3
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercico 3/exercicio 3/bin/Debug/net7.0/exercicio 3.deps.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercico 3/exercicio 3/bin/Debug/net7.0/exercicio 3.runtimeconfig.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercico 3/exercicio 3/bin/Debug/net7.0/exercicio 3.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercico 3/exercicio 3/bin/Debug/net7.0/exercicio 3.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/exercicio 3.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/exercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/exercicio 3.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/exercicio 3.AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/exercicio 3.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/exercicio 3.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/refint/exercicio 3.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/exercicio 3.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/exercicio 3.genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercico 3/exercicio 3/obj/Debug/net7.0/ref/exercicio 3.dll

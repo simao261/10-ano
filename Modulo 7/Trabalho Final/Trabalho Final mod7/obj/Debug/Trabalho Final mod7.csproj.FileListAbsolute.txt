@@ -1,0 +1,21 @@
+\\Mac\Home\Downloads\Trabalho Final mod7\bin\Debug\Trabalho Final mod7.exe.config
+\\Mac\Home\Downloads\Trabalho Final mod7\bin\Debug\Trabalho Final mod7.exe
+\\Mac\Home\Downloads\Trabalho Final mod7\bin\Debug\Trabalho Final mod7.pdb
+\\Mac\Home\Downloads\Trabalho Final mod7\obj\Debug\Trabalho Final mod7.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Trabalho Final mod7\obj\Debug\Trabalho Final mod7.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Trabalho Final mod7\obj\Debug\Trabalho Final mod7.exe
+\\Mac\Home\Downloads\Trabalho Final mod7\obj\Debug\Trabalho Final mod7.pdb
+W:\Pogramação\10 ano\Modulo 7\Trabalho Final\Trabalho Final mod7\bin\Debug\Trabalho Final mod7.exe.config
+W:\Pogramação\10 ano\Modulo 7\Trabalho Final\Trabalho Final mod7\bin\Debug\Trabalho Final mod7.exe
+W:\Pogramação\10 ano\Modulo 7\Trabalho Final\Trabalho Final mod7\bin\Debug\Trabalho Final mod7.pdb
+W:\Pogramação\10 ano\Modulo 7\Trabalho Final\Trabalho Final mod7\obj\Debug\Trabalho Final mod7.csproj.AssemblyReference.cache
+W:\Pogramação\10 ano\Modulo 7\Trabalho Final\Trabalho Final mod7\obj\Debug\Trabalho Final mod7.csproj.CoreCompileInputs.cache
+W:\Pogramação\10 ano\Modulo 7\Trabalho Final\Trabalho Final mod7\obj\Debug\Trabalho Final mod7.exe
+W:\Pogramação\10 ano\Modulo 7\Trabalho Final\Trabalho Final mod7\obj\Debug\Trabalho Final mod7.pdb
+E:\Pogramação\10 ano\Modulo 7\Trabalho Final\Trabalho Final mod7\bin\Debug\Trabalho Final mod7.exe.config
+E:\Pogramação\10 ano\Modulo 7\Trabalho Final\Trabalho Final mod7\bin\Debug\Trabalho Final mod7.exe
+E:\Pogramação\10 ano\Modulo 7\Trabalho Final\Trabalho Final mod7\bin\Debug\Trabalho Final mod7.pdb
+E:\Pogramação\10 ano\Modulo 7\Trabalho Final\Trabalho Final mod7\obj\Debug\Trabalho Final mod7.csproj.AssemblyReference.cache
+E:\Pogramação\10 ano\Modulo 7\Trabalho Final\Trabalho Final mod7\obj\Debug\Trabalho Final mod7.csproj.CoreCompileInputs.cache
+E:\Pogramação\10 ano\Modulo 7\Trabalho Final\Trabalho Final mod7\obj\Debug\Trabalho Final mod7.exe
+E:\Pogramação\10 ano\Modulo 7\Trabalho Final\Trabalho Final mod7\obj\Debug\Trabalho Final mod7.pdb

@@ -1,0 +1,15 @@
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Jogo (Páscoa)/Jogo (Páscoa)/bin/Debug/net7.0/Jogo (Páscoa)
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Jogo (Páscoa)/Jogo (Páscoa)/bin/Debug/net7.0/Jogo (Páscoa).deps.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Jogo (Páscoa)/Jogo (Páscoa)/bin/Debug/net7.0/Jogo (Páscoa).runtimeconfig.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Jogo (Páscoa)/Jogo (Páscoa)/bin/Debug/net7.0/Jogo (Páscoa).dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Jogo (Páscoa)/Jogo (Páscoa)/bin/Debug/net7.0/Jogo (Páscoa).pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Jogo (Páscoa)/Jogo (Páscoa)/obj/Debug/net7.0/Jogo (Páscoa).csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Jogo (Páscoa)/Jogo (Páscoa)/obj/Debug/net7.0/Jogo (Páscoa).GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Jogo (Páscoa)/Jogo (Páscoa)/obj/Debug/net7.0/Jogo (Páscoa).AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Jogo (Páscoa)/Jogo (Páscoa)/obj/Debug/net7.0/Jogo (Páscoa).AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Jogo (Páscoa)/Jogo (Páscoa)/obj/Debug/net7.0/Jogo (Páscoa).csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Jogo (Páscoa)/Jogo (Páscoa)/obj/Debug/net7.0/Jogo (Páscoa).dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Jogo (Páscoa)/Jogo (Páscoa)/obj/Debug/net7.0/refint/Jogo (Páscoa).dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Jogo (Páscoa)/Jogo (Páscoa)/obj/Debug/net7.0/Jogo (Páscoa).pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Jogo (Páscoa)/Jogo (Páscoa)/obj/Debug/net7.0/Jogo (Páscoa).genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Jogo (Páscoa)/Jogo (Páscoa)/obj/Debug/net7.0/ref/Jogo (Páscoa).dll

@@ -1,0 +1,6 @@
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1 - Resolucao\Exercicio4\bin\Debug\Exercicio4.exe
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1 - Resolucao\Exercicio4\bin\Debug\Exercicio4.pdb
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1 - Resolucao\Exercicio4\obj\Debug\Exercicio4.csprojAssemblyReference.cache
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1 - Resolucao\Exercicio4\obj\Debug\Exercicio4.csproj.CoreCompileInputs.cache
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1 - Resolucao\Exercicio4\obj\Debug\Exercicio4.exe
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1 - Resolucao\Exercicio4\obj\Debug\Exercicio4.pdb

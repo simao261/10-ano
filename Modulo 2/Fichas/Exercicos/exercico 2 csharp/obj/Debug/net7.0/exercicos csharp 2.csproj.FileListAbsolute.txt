@@ -1,0 +1,15 @@
+/Users/simaorodrigues/Projects/exercicos csharp 2/exercicos csharp 2/bin/Debug/net7.0/exercicos csharp 2
+/Users/simaorodrigues/Projects/exercicos csharp 2/exercicos csharp 2/bin/Debug/net7.0/exercicos csharp 2.deps.json
+/Users/simaorodrigues/Projects/exercicos csharp 2/exercicos csharp 2/bin/Debug/net7.0/exercicos csharp 2.runtimeconfig.json
+/Users/simaorodrigues/Projects/exercicos csharp 2/exercicos csharp 2/bin/Debug/net7.0/exercicos csharp 2.dll
+/Users/simaorodrigues/Projects/exercicos csharp 2/exercicos csharp 2/bin/Debug/net7.0/exercicos csharp 2.pdb
+/Users/simaorodrigues/Projects/exercicos csharp 2/exercicos csharp 2/obj/Debug/net7.0/exercicos csharp 2.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Projects/exercicos csharp 2/exercicos csharp 2/obj/Debug/net7.0/exercicos csharp 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Projects/exercicos csharp 2/exercicos csharp 2/obj/Debug/net7.0/exercicos csharp 2.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Projects/exercicos csharp 2/exercicos csharp 2/obj/Debug/net7.0/exercicos csharp 2.AssemblyInfo.cs
+/Users/simaorodrigues/Projects/exercicos csharp 2/exercicos csharp 2/obj/Debug/net7.0/exercicos csharp 2.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Projects/exercicos csharp 2/exercicos csharp 2/obj/Debug/net7.0/exercicos csharp 2.dll
+/Users/simaorodrigues/Projects/exercicos csharp 2/exercicos csharp 2/obj/Debug/net7.0/refint/exercicos csharp 2.dll
+/Users/simaorodrigues/Projects/exercicos csharp 2/exercicos csharp 2/obj/Debug/net7.0/exercicos csharp 2.pdb
+/Users/simaorodrigues/Projects/exercicos csharp 2/exercicos csharp 2/obj/Debug/net7.0/exercicos csharp 2.genruntimeconfig.cache
+/Users/simaorodrigues/Projects/exercicos csharp 2/exercicos csharp 2/obj/Debug/net7.0/ref/exercicos csharp 2.dll

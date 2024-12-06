@@ -1,0 +1,15 @@
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/QuestaoAula1/Modulo4-QuestaoAula-1/Modulo4-QuestaoAula-1/bin/Debug/net7.0/Modulo4-QuestaoAula-1
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/QuestaoAula1/Modulo4-QuestaoAula-1/Modulo4-QuestaoAula-1/bin/Debug/net7.0/Modulo4-QuestaoAula-1.deps.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/QuestaoAula1/Modulo4-QuestaoAula-1/Modulo4-QuestaoAula-1/bin/Debug/net7.0/Modulo4-QuestaoAula-1.runtimeconfig.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/QuestaoAula1/Modulo4-QuestaoAula-1/Modulo4-QuestaoAula-1/bin/Debug/net7.0/Modulo4-QuestaoAula-1.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/QuestaoAula1/Modulo4-QuestaoAula-1/Modulo4-QuestaoAula-1/bin/Debug/net7.0/Modulo4-QuestaoAula-1.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/QuestaoAula1/Modulo4-QuestaoAula-1/Modulo4-QuestaoAula-1/obj/Debug/net7.0/Modulo4-QuestaoAula-1.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/QuestaoAula1/Modulo4-QuestaoAula-1/Modulo4-QuestaoAula-1/obj/Debug/net7.0/Modulo4-QuestaoAula-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/QuestaoAula1/Modulo4-QuestaoAula-1/Modulo4-QuestaoAula-1/obj/Debug/net7.0/Modulo4-QuestaoAula-1.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/QuestaoAula1/Modulo4-QuestaoAula-1/Modulo4-QuestaoAula-1/obj/Debug/net7.0/Modulo4-QuestaoAula-1.AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/QuestaoAula1/Modulo4-QuestaoAula-1/Modulo4-QuestaoAula-1/obj/Debug/net7.0/Modulo4-QuestaoAula-1.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/QuestaoAula1/Modulo4-QuestaoAula-1/Modulo4-QuestaoAula-1/obj/Debug/net7.0/Modulo4-QuestaoAula-1.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/QuestaoAula1/Modulo4-QuestaoAula-1/Modulo4-QuestaoAula-1/obj/Debug/net7.0/refint/Modulo4-QuestaoAula-1.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/QuestaoAula1/Modulo4-QuestaoAula-1/Modulo4-QuestaoAula-1/obj/Debug/net7.0/Modulo4-QuestaoAula-1.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/QuestaoAula1/Modulo4-QuestaoAula-1/Modulo4-QuestaoAula-1/obj/Debug/net7.0/Modulo4-QuestaoAula-1.genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Strings/QuestaoAula1/Modulo4-QuestaoAula-1/Modulo4-QuestaoAula-1/obj/Debug/net7.0/ref/Modulo4-QuestaoAula-1.dll

@@ -1,0 +1,7 @@
+C:\PSI\Pogramação\Modulo 3\Fichas\Ficha 3.0\Ficha 3.0\bin\Debug\Ficha 3.0.exe.config
+C:\PSI\Pogramação\Modulo 3\Fichas\Ficha 3.0\Ficha 3.0\bin\Debug\Ficha 3.0.exe
+C:\PSI\Pogramação\Modulo 3\Fichas\Ficha 3.0\Ficha 3.0\bin\Debug\Ficha 3.0.pdb
+C:\PSI\Pogramação\Modulo 3\Fichas\Ficha 3.0\Ficha 3.0\obj\Debug\Ficha 3.0.csproj.AssemblyReference.cache
+C:\PSI\Pogramação\Modulo 3\Fichas\Ficha 3.0\Ficha 3.0\obj\Debug\Ficha 3.0.csproj.CoreCompileInputs.cache
+C:\PSI\Pogramação\Modulo 3\Fichas\Ficha 3.0\Ficha 3.0\obj\Debug\Ficha 3.0.exe
+C:\PSI\Pogramação\Modulo 3\Fichas\Ficha 3.0\Ficha 3.0\obj\Debug\Ficha 3.0.pdb

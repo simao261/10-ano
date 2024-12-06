@@ -1,0 +1,7 @@
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\3 Pograma\3 Programa\bin\Debug\3 Programa.exe.config
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\3 Pograma\3 Programa\bin\Debug\3 Programa.exe
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\3 Pograma\3 Programa\bin\Debug\3 Programa.pdb
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\3 Pograma\3 Programa\obj\Debug\3 Programa.csproj.AssemblyReference.cache
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\3 Pograma\3 Programa\obj\Debug\3 Programa.csproj.CoreCompileInputs.cache
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\3 Pograma\3 Programa\obj\Debug\3 Programa.exe
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\3 Pograma\3 Programa\obj\Debug\3 Programa.pdb

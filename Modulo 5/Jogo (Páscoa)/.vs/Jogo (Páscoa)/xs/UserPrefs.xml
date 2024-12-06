@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C1BBD39D-17A3-4B85-B1C2-44729CA8E95E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Jogo (Páscoa)/Program.cs">
+    <Files>
+      <File FileName="Jogo (Páscoa)/Program.cs" Line="70" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Jogo (Páscoa)" expanded="True">
+            <Node name="Jogo (Páscoa)" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Jogo_220_228Páscoa_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

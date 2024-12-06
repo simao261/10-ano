@@ -1,0 +1,30 @@
+/Users/simaorodrigues/Desktop/Pogramação/c#/aplicação/aplicação/bin/Debug/net7.0/aplicação
+/Users/simaorodrigues/Desktop/Pogramação/c#/aplicação/aplicação/bin/Debug/net7.0/aplicação.deps.json
+/Users/simaorodrigues/Desktop/Pogramação/c#/aplicação/aplicação/bin/Debug/net7.0/aplicação.runtimeconfig.json
+/Users/simaorodrigues/Desktop/Pogramação/c#/aplicação/aplicação/bin/Debug/net7.0/aplicação.dll
+/Users/simaorodrigues/Desktop/Pogramação/c#/aplicação/aplicação/bin/Debug/net7.0/aplicação.pdb
+/Users/simaorodrigues/Desktop/Pogramação/c#/aplicação/aplicação/obj/Debug/net7.0/aplicação.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Pogramação/c#/aplicação/aplicação/obj/Debug/net7.0/aplicação.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Pogramação/c#/aplicação/aplicação/obj/Debug/net7.0/aplicação.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/c#/aplicação/aplicação/obj/Debug/net7.0/aplicação.AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Pogramação/c#/aplicação/aplicação/obj/Debug/net7.0/aplicação.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/c#/aplicação/aplicação/obj/Debug/net7.0/aplicação.dll
+/Users/simaorodrigues/Desktop/Pogramação/c#/aplicação/aplicação/obj/Debug/net7.0/refint/aplicação.dll
+/Users/simaorodrigues/Desktop/Pogramação/c#/aplicação/aplicação/obj/Debug/net7.0/aplicação.pdb
+/Users/simaorodrigues/Desktop/Pogramação/c#/aplicação/aplicação/obj/Debug/net7.0/aplicação.genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Pogramação/c#/aplicação/aplicação/obj/Debug/net7.0/ref/aplicação.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/aplicação/aplicação/bin/Debug/net7.0/aplicação
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/aplicação/aplicação/bin/Debug/net7.0/aplicação.deps.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/aplicação/aplicação/bin/Debug/net7.0/aplicação.runtimeconfig.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/aplicação/aplicação/bin/Debug/net7.0/aplicação.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/aplicação/aplicação/bin/Debug/net7.0/aplicação.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/aplicação/aplicação/obj/Debug/net7.0/aplicação.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/aplicação/aplicação/obj/Debug/net7.0/aplicação.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/aplicação/aplicação/obj/Debug/net7.0/aplicação.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/aplicação/aplicação/obj/Debug/net7.0/aplicação.AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/aplicação/aplicação/obj/Debug/net7.0/aplicação.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/aplicação/aplicação/obj/Debug/net7.0/aplicação.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/aplicação/aplicação/obj/Debug/net7.0/refint/aplicação.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/aplicação/aplicação/obj/Debug/net7.0/aplicação.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/aplicação/aplicação/obj/Debug/net7.0/aplicação.genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/aplicação/aplicação/obj/Debug/net7.0/ref/aplicação.dll

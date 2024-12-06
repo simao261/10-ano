@@ -1,0 +1,15 @@
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Revisão Teste/Revisão Teste/Revisão Teste/bin/Debug/net7.0/Revisão Teste
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Revisão Teste/Revisão Teste/Revisão Teste/bin/Debug/net7.0/Revisão Teste.deps.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Revisão Teste/Revisão Teste/Revisão Teste/bin/Debug/net7.0/Revisão Teste.runtimeconfig.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Revisão Teste/Revisão Teste/Revisão Teste/bin/Debug/net7.0/Revisão Teste.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Revisão Teste/Revisão Teste/Revisão Teste/bin/Debug/net7.0/Revisão Teste.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Revisão Teste/Revisão Teste/Revisão Teste/obj/Debug/net7.0/Revisão Teste.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Revisão Teste/Revisão Teste/Revisão Teste/obj/Debug/net7.0/Revisão Teste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Revisão Teste/Revisão Teste/Revisão Teste/obj/Debug/net7.0/Revisão Teste.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Revisão Teste/Revisão Teste/Revisão Teste/obj/Debug/net7.0/Revisão Teste.AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Revisão Teste/Revisão Teste/Revisão Teste/obj/Debug/net7.0/Revisão Teste.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Revisão Teste/Revisão Teste/Revisão Teste/obj/Debug/net7.0/Revisão Teste.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Revisão Teste/Revisão Teste/Revisão Teste/obj/Debug/net7.0/refint/Revisão Teste.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Revisão Teste/Revisão Teste/Revisão Teste/obj/Debug/net7.0/Revisão Teste.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Revisão Teste/Revisão Teste/Revisão Teste/obj/Debug/net7.0/Revisão Teste.genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Revisão Teste/Revisão Teste/Revisão Teste/obj/Debug/net7.0/ref/Revisão Teste.dll

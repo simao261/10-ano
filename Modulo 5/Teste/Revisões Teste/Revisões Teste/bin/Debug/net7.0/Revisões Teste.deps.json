@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Revisões Teste/1.0.0": {
+        "runtime": {
+          "Revisões Teste.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Revisões Teste/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

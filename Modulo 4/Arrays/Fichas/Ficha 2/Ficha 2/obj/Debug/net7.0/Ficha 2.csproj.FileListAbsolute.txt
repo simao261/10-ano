@@ -1,0 +1,15 @@
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/Ficha 2/Ficha 2/bin/Debug/net7.0/Ficha 2
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/Ficha 2/Ficha 2/bin/Debug/net7.0/Ficha 2.deps.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/Ficha 2/Ficha 2/bin/Debug/net7.0/Ficha 2.runtimeconfig.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/Ficha 2/Ficha 2/bin/Debug/net7.0/Ficha 2.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/Ficha 2/Ficha 2/bin/Debug/net7.0/Ficha 2.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/Ficha 2/Ficha 2/obj/Debug/net7.0/Ficha 2.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/Ficha 2/Ficha 2/obj/Debug/net7.0/Ficha 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/Ficha 2/Ficha 2/obj/Debug/net7.0/Ficha 2.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/Ficha 2/Ficha 2/obj/Debug/net7.0/Ficha 2.AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/Ficha 2/Ficha 2/obj/Debug/net7.0/Ficha 2.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/Ficha 2/Ficha 2/obj/Debug/net7.0/Ficha 2.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/Ficha 2/Ficha 2/obj/Debug/net7.0/refint/Ficha 2.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/Ficha 2/Ficha 2/obj/Debug/net7.0/Ficha 2.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/Ficha 2/Ficha 2/obj/Debug/net7.0/Ficha 2.genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Arrays/Ficha 2/Ficha 2/obj/Debug/net7.0/ref/Ficha 2.dll

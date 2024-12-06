@@ -1,0 +1,15 @@
+/Users/simaorodrigues/Desktop/Pogramação/modulo 1/pyton experiencias/pyton experiencias/bin/Debug/net7.0/pyton experiencias
+/Users/simaorodrigues/Desktop/Pogramação/modulo 1/pyton experiencias/pyton experiencias/bin/Debug/net7.0/pyton experiencias.deps.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 1/pyton experiencias/pyton experiencias/bin/Debug/net7.0/pyton experiencias.runtimeconfig.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 1/pyton experiencias/pyton experiencias/bin/Debug/net7.0/pyton experiencias.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 1/pyton experiencias/pyton experiencias/bin/Debug/net7.0/pyton experiencias.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 1/pyton experiencias/pyton experiencias/obj/Debug/net7.0/pyton experiencias.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 1/pyton experiencias/pyton experiencias/obj/Debug/net7.0/pyton experiencias.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Pogramação/modulo 1/pyton experiencias/pyton experiencias/obj/Debug/net7.0/pyton experiencias.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 1/pyton experiencias/pyton experiencias/obj/Debug/net7.0/pyton experiencias.AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Pogramação/modulo 1/pyton experiencias/pyton experiencias/obj/Debug/net7.0/pyton experiencias.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 1/pyton experiencias/pyton experiencias/obj/Debug/net7.0/pyton experiencias.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 1/pyton experiencias/pyton experiencias/obj/Debug/net7.0/refint/pyton experiencias.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 1/pyton experiencias/pyton experiencias/obj/Debug/net7.0/pyton experiencias.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 1/pyton experiencias/pyton experiencias/obj/Debug/net7.0/pyton experiencias.genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 1/pyton experiencias/pyton experiencias/obj/Debug/net7.0/ref/pyton experiencias.dll

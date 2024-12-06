@@ -1,0 +1,7 @@
+C:\PSI\Pogramação\Modulo 3\Revisões Teste\bin\Debug\Revisões Teste.exe.config
+C:\PSI\Pogramação\Modulo 3\Revisões Teste\bin\Debug\Revisões Teste.exe
+C:\PSI\Pogramação\Modulo 3\Revisões Teste\bin\Debug\Revisões Teste.pdb
+C:\PSI\Pogramação\Modulo 3\Revisões Teste\obj\Debug\Revisões Teste.csproj.AssemblyReference.cache
+C:\PSI\Pogramação\Modulo 3\Revisões Teste\obj\Debug\Revisões Teste.csproj.CoreCompileInputs.cache
+C:\PSI\Pogramação\Modulo 3\Revisões Teste\obj\Debug\Revisões Teste.exe
+C:\PSI\Pogramação\Modulo 3\Revisões Teste\obj\Debug\Revisões Teste.pdb

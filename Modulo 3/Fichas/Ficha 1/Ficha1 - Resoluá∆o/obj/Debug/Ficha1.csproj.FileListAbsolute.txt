@@ -1,0 +1,8 @@
+D:\MEOCloud\Brotero 2023-2024\10PSI\Modulo 3 - Prog Estruturada\Fichas de Trabalho\Ficha de Trabalho 1\Ficha1 - Resolução\bin\Debug\Ficha1.exe.config
+D:\MEOCloud\Brotero 2023-2024\10PSI\Modulo 3 - Prog Estruturada\Fichas de Trabalho\Ficha de Trabalho 1\Ficha1 - Resolução\bin\Debug\Ficha1.exe
+D:\MEOCloud\Brotero 2023-2024\10PSI\Modulo 3 - Prog Estruturada\Fichas de Trabalho\Ficha de Trabalho 1\Ficha1 - Resolução\bin\Debug\Ficha1.pdb
+D:\MEOCloud\Brotero 2023-2024\10PSI\Modulo 3 - Prog Estruturada\Fichas de Trabalho\Ficha de Trabalho 1\Ficha1 - Resolução\obj\Debug\Ficha1.csproj.AssemblyReference.cache
+D:\MEOCloud\Brotero 2023-2024\10PSI\Modulo 3 - Prog Estruturada\Fichas de Trabalho\Ficha de Trabalho 1\Ficha1 - Resolução\obj\Debug\Ficha1.csproj.SuggestedBindingRedirects.cache
+D:\MEOCloud\Brotero 2023-2024\10PSI\Modulo 3 - Prog Estruturada\Fichas de Trabalho\Ficha de Trabalho 1\Ficha1 - Resolução\obj\Debug\Ficha1.csproj.CoreCompileInputs.cache
+D:\MEOCloud\Brotero 2023-2024\10PSI\Modulo 3 - Prog Estruturada\Fichas de Trabalho\Ficha de Trabalho 1\Ficha1 - Resolução\obj\Debug\Ficha1.exe
+D:\MEOCloud\Brotero 2023-2024\10PSI\Modulo 3 - Prog Estruturada\Fichas de Trabalho\Ficha de Trabalho 1\Ficha1 - Resolução\obj\Debug\Ficha1.pdb

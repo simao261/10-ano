@@ -1,0 +1,15 @@
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Ficha 0/Ficha 0 ex 3/bin/Debug/net7.0/Ficha 0 ex 3
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Ficha 0/Ficha 0 ex 3/bin/Debug/net7.0/Ficha 0 ex 3.deps.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Ficha 0/Ficha 0 ex 3/bin/Debug/net7.0/Ficha 0 ex 3.runtimeconfig.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Ficha 0/Ficha 0 ex 3/bin/Debug/net7.0/Ficha 0 ex 3.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Ficha 0/Ficha 0 ex 3/bin/Debug/net7.0/Ficha 0 ex 3.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Ficha 0/Ficha 0 ex 3/obj/Debug/net7.0/Ficha 0 ex 3.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Ficha 0/Ficha 0 ex 3/obj/Debug/net7.0/Ficha 0 ex 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Ficha 0/Ficha 0 ex 3/obj/Debug/net7.0/Ficha 0 ex 3.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Ficha 0/Ficha 0 ex 3/obj/Debug/net7.0/Ficha 0 ex 3.AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Ficha 0/Ficha 0 ex 3/obj/Debug/net7.0/Ficha 0 ex 3.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Ficha 0/Ficha 0 ex 3/obj/Debug/net7.0/Ficha 0 ex 3.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Ficha 0/Ficha 0 ex 3/obj/Debug/net7.0/refint/Ficha 0 ex 3.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Ficha 0/Ficha 0 ex 3/obj/Debug/net7.0/Ficha 0 ex 3.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Ficha 0/Ficha 0 ex 3/obj/Debug/net7.0/Ficha 0 ex 3.genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 4/Ficha 0/Ficha 0 ex 3/obj/Debug/net7.0/ref/Ficha 0 ex 3.dll

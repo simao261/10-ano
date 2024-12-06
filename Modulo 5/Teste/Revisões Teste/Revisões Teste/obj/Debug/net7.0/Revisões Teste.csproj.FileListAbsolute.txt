@@ -1,0 +1,60 @@
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Teste/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Teste/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Teste/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Teste/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Teste/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Teste/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Teste/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste.deps.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Teste/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste.runtimeconfig.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Teste/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Teste/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Teste/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Teste/Revisões Teste/Revisões Teste/obj/Debug/net7.0/refint/Revisões Teste.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Teste/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Teste/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Teste/Revisões Teste/Revisões Teste/obj/Debug/net7.0/ref/Revisões Teste.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste.deps.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste.runtimeconfig.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Revisões Teste/Revisões Teste/obj/Debug/net7.0/refint/Revisões Teste.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Revisões Teste/Revisões Teste/obj/Debug/net7.0/ref/Revisões Teste.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste.deps.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste.runtimeconfig.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/refint/Revisões Teste.dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/ref/Revisões Teste.dll
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste.deps.json
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste.runtimeconfig.json
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste.dll
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/bin/Debug/net7.0/Revisões Teste.pdb
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.dll
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/refint/Revisões Teste.dll
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.pdb
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/Revisões Teste.genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 5/Estruturas de Dados Compostas/Revisões Teste/Revisões Teste/obj/Debug/net7.0/ref/Revisões Teste.dll

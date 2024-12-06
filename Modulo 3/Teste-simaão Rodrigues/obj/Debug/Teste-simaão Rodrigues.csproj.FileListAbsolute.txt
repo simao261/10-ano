@@ -1,0 +1,7 @@
+C:\PSI\Pogramação\Modulo 3\Teste-simaão Rodrigues\bin\Debug\Teste-simaão Rodrigues.exe.config
+C:\PSI\Pogramação\Modulo 3\Teste-simaão Rodrigues\bin\Debug\Teste-simaão Rodrigues.exe
+C:\PSI\Pogramação\Modulo 3\Teste-simaão Rodrigues\bin\Debug\Teste-simaão Rodrigues.pdb
+C:\PSI\Pogramação\Modulo 3\Teste-simaão Rodrigues\obj\Debug\Teste-simaão Rodrigues.csproj.AssemblyReference.cache
+C:\PSI\Pogramação\Modulo 3\Teste-simaão Rodrigues\obj\Debug\Teste-simaão Rodrigues.csproj.CoreCompileInputs.cache
+C:\PSI\Pogramação\Modulo 3\Teste-simaão Rodrigues\obj\Debug\Teste-simaão Rodrigues.exe
+C:\PSI\Pogramação\Modulo 3\Teste-simaão Rodrigues\obj\Debug\Teste-simaão Rodrigues.pdb

@@ -1,0 +1,7 @@
+C:\PSI\Pogramação\Modulo 3\Ex 3\bin\Debug\Ex 3.exe.config
+C:\PSI\Pogramação\Modulo 3\Ex 3\bin\Debug\Ex 3.exe
+C:\PSI\Pogramação\Modulo 3\Ex 3\bin\Debug\Ex 3.pdb
+C:\PSI\Pogramação\Modulo 3\Ex 3\obj\Debug\Ex 3.csproj.AssemblyReference.cache
+C:\PSI\Pogramação\Modulo 3\Ex 3\obj\Debug\Ex 3.csproj.CoreCompileInputs.cache
+C:\PSI\Pogramação\Modulo 3\Ex 3\obj\Debug\Ex 3.exe
+C:\PSI\Pogramação\Modulo 3\Ex 3\obj\Debug\Ex 3.pdb

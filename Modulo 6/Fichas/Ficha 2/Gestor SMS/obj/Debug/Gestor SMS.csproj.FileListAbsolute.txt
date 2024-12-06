@@ -1,0 +1,6 @@
+G:\Dropbox\Brotero 2019-2020\PSI - 10PSI1\Modulo 6 - Estruturas Dados Dinamicas\Fichas de Trabalho\Ficha de Trabalho 2 - List\Projeto alunos\Gestor SMS\bin\Debug\Gestor SMS.exe
+G:\Dropbox\Brotero 2019-2020\PSI - 10PSI1\Modulo 6 - Estruturas Dados Dinamicas\Fichas de Trabalho\Ficha de Trabalho 2 - List\Projeto alunos\Gestor SMS\bin\Debug\Gestor SMS.pdb
+G:\Dropbox\Brotero 2019-2020\PSI - 10PSI1\Modulo 6 - Estruturas Dados Dinamicas\Fichas de Trabalho\Ficha de Trabalho 2 - List\Projeto alunos\Gestor SMS\obj\Debug\Gestor SMS.csprojAssemblyReference.cache
+G:\Dropbox\Brotero 2019-2020\PSI - 10PSI1\Modulo 6 - Estruturas Dados Dinamicas\Fichas de Trabalho\Ficha de Trabalho 2 - List\Projeto alunos\Gestor SMS\obj\Debug\Gestor SMS.csproj.CoreCompileInputs.cache
+G:\Dropbox\Brotero 2019-2020\PSI - 10PSI1\Modulo 6 - Estruturas Dados Dinamicas\Fichas de Trabalho\Ficha de Trabalho 2 - List\Projeto alunos\Gestor SMS\obj\Debug\Gestor SMS.exe
+G:\Dropbox\Brotero 2019-2020\PSI - 10PSI1\Modulo 6 - Estruturas Dados Dinamicas\Fichas de Trabalho\Ficha de Trabalho 2 - List\Projeto alunos\Gestor SMS\obj\Debug\Gestor SMS.pdb

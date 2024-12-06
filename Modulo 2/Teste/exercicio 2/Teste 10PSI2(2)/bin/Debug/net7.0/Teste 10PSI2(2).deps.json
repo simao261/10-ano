@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Teste 10PSI2(2)/1.0.0": {
+        "runtime": {
+          "Teste 10PSI2(2).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Teste 10PSI2(2)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

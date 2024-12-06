@@ -1,0 +1,7 @@
+C:\PSI\Pogramação\Modulo 3\Fichas\Ficha 4\Ficha 4\bin\Debug\Ficha 4.exe.config
+C:\PSI\Pogramação\Modulo 3\Fichas\Ficha 4\Ficha 4\bin\Debug\Ficha 4.exe
+C:\PSI\Pogramação\Modulo 3\Fichas\Ficha 4\Ficha 4\bin\Debug\Ficha 4.pdb
+C:\PSI\Pogramação\Modulo 3\Fichas\Ficha 4\Ficha 4\obj\Debug\Ficha 4.csproj.AssemblyReference.cache
+C:\PSI\Pogramação\Modulo 3\Fichas\Ficha 4\Ficha 4\obj\Debug\Ficha 4.csproj.CoreCompileInputs.cache
+C:\PSI\Pogramação\Modulo 3\Fichas\Ficha 4\Ficha 4\obj\Debug\Ficha 4.exe
+C:\PSI\Pogramação\Modulo 3\Fichas\Ficha 4\Ficha 4\obj\Debug\Ficha 4.pdb

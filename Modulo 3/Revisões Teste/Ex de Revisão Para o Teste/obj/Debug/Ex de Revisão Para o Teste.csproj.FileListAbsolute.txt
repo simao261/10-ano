@@ -1,0 +1,7 @@
+C:\PSI\Pogramação\Modulo 3\Revisões Teste\Ex de Revisão Para o Teste\bin\Debug\Ex de Revisão Para o Teste.exe.config
+C:\PSI\Pogramação\Modulo 3\Revisões Teste\Ex de Revisão Para o Teste\bin\Debug\Ex de Revisão Para o Teste.exe
+C:\PSI\Pogramação\Modulo 3\Revisões Teste\Ex de Revisão Para o Teste\bin\Debug\Ex de Revisão Para o Teste.pdb
+C:\PSI\Pogramação\Modulo 3\Revisões Teste\Ex de Revisão Para o Teste\obj\Debug\Ex de Revisão Para o Teste.csproj.AssemblyReference.cache
+C:\PSI\Pogramação\Modulo 3\Revisões Teste\Ex de Revisão Para o Teste\obj\Debug\Ex de Revisão Para o Teste.csproj.CoreCompileInputs.cache
+C:\PSI\Pogramação\Modulo 3\Revisões Teste\Ex de Revisão Para o Teste\obj\Debug\Ex de Revisão Para o Teste.exe
+C:\PSI\Pogramação\Modulo 3\Revisões Teste\Ex de Revisão Para o Teste\obj\Debug\Ex de Revisão Para o Teste.pdb

@@ -1,0 +1,14 @@
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\Trabalho Prático Simão Rodrigues\1 Pograma\1 Pograma\bin\Debug\1 Pograma.exe.config
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\Trabalho Prático Simão Rodrigues\1 Pograma\1 Pograma\bin\Debug\1 Pograma.exe
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\Trabalho Prático Simão Rodrigues\1 Pograma\1 Pograma\bin\Debug\1 Pograma.pdb
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\Trabalho Prático Simão Rodrigues\1 Pograma\1 Pograma\obj\Debug\1 Pograma.csproj.AssemblyReference.cache
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\Trabalho Prático Simão Rodrigues\1 Pograma\1 Pograma\obj\Debug\1 Pograma.csproj.CoreCompileInputs.cache
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\Trabalho Prático Simão Rodrigues\1 Pograma\1 Pograma\obj\Debug\1 Pograma.exe
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\Trabalho Prático Simão Rodrigues\1 Pograma\1 Pograma\obj\Debug\1 Pograma.pdb
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\1 Pograma\1 Pograma\bin\Debug\1 Pograma.exe.config
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\1 Pograma\1 Pograma\bin\Debug\1 Pograma.exe
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\1 Pograma\1 Pograma\bin\Debug\1 Pograma.pdb
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\1 Pograma\1 Pograma\obj\Debug\1 Pograma.csproj.AssemblyReference.cache
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\1 Pograma\1 Pograma\obj\Debug\1 Pograma.csproj.CoreCompileInputs.cache
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\1 Pograma\1 Pograma\obj\Debug\1 Pograma.exe
+W:\Pogramação\10º ano\Modulo 6\Trabalho Prático\Trabalho Prático Final Mod6 Simão Rodrigues\1 Pograma\1 Pograma\obj\Debug\1 Pograma.pdb

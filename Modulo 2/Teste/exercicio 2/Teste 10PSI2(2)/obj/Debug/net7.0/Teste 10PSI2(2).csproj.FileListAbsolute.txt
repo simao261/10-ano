@@ -1,0 +1,75 @@
+/Users/simaorodrigues/Projects/Teste 10PSI2(2)/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2)
+/Users/simaorodrigues/Projects/Teste 10PSI2(2)/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).deps.json
+/Users/simaorodrigues/Projects/Teste 10PSI2(2)/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).runtimeconfig.json
+/Users/simaorodrigues/Projects/Teste 10PSI2(2)/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Projects/Teste 10PSI2(2)/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).pdb
+/Users/simaorodrigues/Projects/Teste 10PSI2(2)/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).csproj.AssemblyReference.cache
+/Users/simaorodrigues/Projects/Teste 10PSI2(2)/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Projects/Teste 10PSI2(2)/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).AssemblyInfoInputs.cache
+/Users/simaorodrigues/Projects/Teste 10PSI2(2)/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).AssemblyInfo.cs
+/Users/simaorodrigues/Projects/Teste 10PSI2(2)/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Projects/Teste 10PSI2(2)/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Projects/Teste 10PSI2(2)/Teste 10PSI2(2)/obj/Debug/net7.0/refint/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Projects/Teste 10PSI2(2)/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).pdb
+/Users/simaorodrigues/Projects/Teste 10PSI2(2)/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).genruntimeconfig.cache
+/Users/simaorodrigues/Projects/Teste 10PSI2(2)/Teste 10PSI2(2)/obj/Debug/net7.0/ref/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Desktop/Teste 1/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2)
+/Users/simaorodrigues/Desktop/Teste 1/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).deps.json
+/Users/simaorodrigues/Desktop/Teste 1/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).runtimeconfig.json
+/Users/simaorodrigues/Desktop/Teste 1/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Desktop/Teste 1/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).pdb
+/Users/simaorodrigues/Desktop/Teste 1/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Teste 1/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Teste 1/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Teste 1/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Teste 1/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Teste 1/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Desktop/Teste 1/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/refint/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Desktop/Teste 1/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).pdb
+/Users/simaorodrigues/Desktop/Teste 1/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Teste 1/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/ref/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Desktop/Teste/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2)
+/Users/simaorodrigues/Desktop/Teste/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).deps.json
+/Users/simaorodrigues/Desktop/Teste/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).runtimeconfig.json
+/Users/simaorodrigues/Desktop/Teste/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Desktop/Teste/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).pdb
+/Users/simaorodrigues/Desktop/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Desktop/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/refint/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Desktop/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).pdb
+/Users/simaorodrigues/Desktop/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/ref/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2)
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).deps.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).runtimeconfig.json
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/refint/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).pdb
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/ref/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2)
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).deps.json
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).runtimeconfig.json
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/bin/Debug/net7.0/Teste 10PSI2(2).pdb
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).csproj.AssemblyReference.cache
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).AssemblyInfoInputs.cache
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).AssemblyInfo.cs
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).csproj.CoreCompileInputs.cache
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/refint/Teste 10PSI2(2).dll
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).pdb
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/Teste 10PSI2(2).genruntimeconfig.cache
+/Users/simaorodrigues/Desktop/PSI/Pogramação/modulo 2/Teste/exercicio 2/Teste 10PSI2(2)/obj/Debug/net7.0/ref/Teste 10PSI2(2).dll

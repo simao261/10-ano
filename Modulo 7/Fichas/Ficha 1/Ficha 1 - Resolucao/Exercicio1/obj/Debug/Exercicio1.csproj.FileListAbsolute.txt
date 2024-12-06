@@ -1,0 +1,12 @@
+D:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1\Exercicio1\bin\Debug\Exercicio1.exe
+D:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1\Exercicio1\bin\Debug\Exercicio1.pdb
+D:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1\Exercicio1\obj\Debug\Exercicio1.csprojAssemblyReference.cache
+D:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1\Exercicio1\obj\Debug\Exercicio1.csproj.CoreCompileInputs.cache
+D:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1\Exercicio1\obj\Debug\Exercicio1.exe
+D:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1\Exercicio1\obj\Debug\Exercicio1.pdb
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1 - Resolucao\Exercicio1\bin\Debug\Exercicio1.exe
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1 - Resolucao\Exercicio1\bin\Debug\Exercicio1.pdb
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1 - Resolucao\Exercicio1\obj\Debug\Exercicio1.csprojAssemblyReference.cache
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1 - Resolucao\Exercicio1\obj\Debug\Exercicio1.csproj.CoreCompileInputs.cache
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1 - Resolucao\Exercicio1\obj\Debug\Exercicio1.exe
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 7 - Tratamento de Ficheiros\Fichas de Trabalho\Ficha de Trabalho 1\Ficha 1 - Resolucao\Exercicio1\obj\Debug\Exercicio1.pdb
